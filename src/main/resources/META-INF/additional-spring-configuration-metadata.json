@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "api.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.base-url'"
+  },
+  {
+    "name": "api.time-out-seconds",
+    "type": "java.lang.String",
+    "description": "A description for 'api.time-out-seconds'"
+  },
+    {
+    "name": "api.product-detail-url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.product-detail-url'"
+  },
+    {
+    "name": "api.similar-ids-url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.similar-ids-url'"
+  }
+]}
